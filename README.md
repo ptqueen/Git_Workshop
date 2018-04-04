@@ -1,2 +1,3 @@
 # Git_Workshop
-exercise
+exercise for Git workshop
+mammals.txt
